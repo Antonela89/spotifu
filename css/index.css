@@ -5,6 +5,11 @@
 @import './button-icon.css';
 @import './sidebar.css';
 @import './ellipsis.css';
+@import './player.css';
+@import './playlist-a.css';
+@import './playlist-b.css';
+
+
 
 
 :root {

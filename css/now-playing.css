@@ -1,0 +1,40 @@
+.nowPlaying {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.nowPlaying-cover img {
+    inline-size: 3.5rem;
+    block-size: 3.5rem;
+    vertical-align: middle;
+}
+
+.nowPlaying-details {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.nowPlaying-description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.nowPlaying-title, .nowPlaying-artist {
+    text-decoration: none;
+}
+
+.nowPlaying-title {
+    color: var(--whiteColor);
+    font: var(--baseFontBold);
+}
+
+.nowPlaying-artist {
+    color: var(--gray10Color);
+    font: var(--smallFont);
+}
+
+.nowPlaying-actions {
+
+}

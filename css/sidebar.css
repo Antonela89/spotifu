@@ -4,7 +4,7 @@
 
 .sidebar {
     background: var(--gray60Color);
-    inline-size: 15rem;
+    /* inline-size: 15rem; */
     display: flex;
     flex-direction: column;
     gap: 1.5rem;

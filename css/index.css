@@ -6,10 +6,7 @@
 @import './sidebar.css';
 @import './ellipsis.css';
 @import './player.css';
-@import './playlist-a.css';
-@import './playlist-b.css';
-@import './playlist-list.css';
-
+@import './page.css';
 
 
 :root {
